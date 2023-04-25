@@ -1,0 +1,30 @@
+body{
+    padding: 50px 100px;
+    display: flex;
+}
+h1{
+    text-align: center;
+    display: flex;
+}
+#container{
+    text-align: center;
+    background-color: papayawhip;
+    padding: 150px;
+}
+.input-div{
+    display: flex;
+    flex-flow:row wrap;
+    justify-content: center;
+    align-items: center;
+}
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
+}
+label{
+    font-size: 25px;
+}
